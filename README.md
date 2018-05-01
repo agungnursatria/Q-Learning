@@ -1,1 +1,1 @@
-# Reinforcement-Q-Learning
+# Q-Learning
